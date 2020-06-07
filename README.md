@@ -6,3 +6,5 @@ Detection of empty parking spaces
 3) install necessary librarries.
 4) run the file with the training images. (empty and occupied)
 5) check whether the model works well with the test images.
+
+**NOTE** the working of the code is exaplained via comments alongside the code
